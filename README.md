@@ -1,6 +1,6 @@
 # - 👋 Hi, I’m @Aisha3O
 ## - 👀 I’m interested in Data Analysis and Data Science
-### - 🌱 I’m currently learning Data analytics course
+### - 🌱 I’m currently working as Data analytic and Data intelligent.
 _- 💞️ I’m looking to collaborate on AI projects and Data science innovations_
 ### - 📫 How to reach me Via LinkedIn _www.linkedin.com/in/aisha-oeshi_
 
